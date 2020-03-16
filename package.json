@@ -1,0 +1,25 @@
+{
+  "name": "framer",
+  "displayName": "Framer Theme",
+  "description": "A color theme inspired by the Framer X",
+  "version": "0.1.0",
+  "publisher": "Roman Nmk",
+  "repository": "https://github.com/romannmk/framer-theme",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Framer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/framer-dark.json"
+      },
+      {
+        "label": "Framer Light",
+        "uiTheme": "vs",
+        "path": "./themes/framer-light.json"
+      }
+    ]
+  }
+}
