@@ -167,9 +167,9 @@
     "textPreformat.foreground": "#888888",
     "textSeparator.foreground": "#888888",
     "titleBar.activeBackground": "#111111",
-    "titleBar.activeForeground": "#ffffff",
+    "titleBar.activeForeground": "#00000000",
     "titleBar.inactiveBackground": "#111111",
-    "titleBar.inactiveForeground": "#777777",
+    "titleBar.inactiveForeground": "#00000000",
     "walkThrough.embeddedEditorBackground": "#111111",
     "welcomePage.buttonBackground": "#111111",
     "welcomePage.buttonHoverBackground": "#333333"
