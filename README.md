@@ -1,4 +1,4 @@
-# Framer Theme
+# VSCode Framer Theme
 
 ## Introduction
 
